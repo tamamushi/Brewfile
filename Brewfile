@@ -17,6 +17,7 @@ brew libyaml
 brew makedepend
 brew openssl
 brew pkg-config
+brew rbenv
 brew readline
 brew ruby
 brew wget
