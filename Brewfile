@@ -4,6 +4,7 @@
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
+cask genymotion
 
 ## caskroom/versions
 tap caskroom/versions
