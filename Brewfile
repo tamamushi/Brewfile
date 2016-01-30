@@ -7,6 +7,7 @@ cask dropbox
 cask genymotion
 cask google-drive
 cask iterm2
+cask serf
 cask terraform
 cask vagrant
 cask virtualbox
