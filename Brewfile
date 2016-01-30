@@ -4,7 +4,12 @@
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
+cask dropbox
 cask genymotion
+cask google-drive
+cask terraform
+cask vagrant
+cask virtualbox
 
 ## caskroom/versions
 tap caskroom/versions
@@ -18,6 +23,7 @@ brew brew-file
 
 # Other Homebrew packages
 brew android-sdk
+brew autoconf
 brew libyaml
 brew makedepend
 brew openssl
