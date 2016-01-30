@@ -1,7 +1,6 @@
 
 # tap repositories and their packages
 
-## caskroom/cask
 tap caskroom/cask
 brew brew-cask
 cask dropbox
@@ -11,19 +10,18 @@ cask terraform
 cask vagrant
 cask virtualbox
 
-## caskroom/versions
 tap caskroom/versions
 cask google-chrome-canary
 cask java6
 cask java7
 
-## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
 brew android-sdk
 brew autoconf
+brew curl
 brew libyaml
 brew makedepend
 brew openssl
