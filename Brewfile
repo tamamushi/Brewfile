@@ -3,9 +3,11 @@
 
 tap caskroom/cask
 brew brew-cask
+cask alfred
 cask dropbox
 cask genymotion
 cask google-drive
+cask google-japanese-ime
 cask iterm2
 cask terraform
 cask vagrant
@@ -34,3 +36,4 @@ brew ruby
 brew ruby-build
 brew wget
 brew xz
+brew mas
