@@ -2,38 +2,55 @@
 # tap repositories and their packages
 
 tap caskroom/cask
-brew brew-cask
 cask alfred
 cask dropbox
 cask genymotion
 cask google-drive
 cask google-japanese-ime
+cask insync
 cask iterm2
+cask macs-fan-control
 cask terraform
 cask vagrant
 cask virtualbox
+cask xtrafinder
 
 tap caskroom/versions
 cask google-chrome-canary
 cask java6
 cask java7
+cask macvim-kaoriya
+
+tap homebrew/core
+brew android-sdk
+brew autoconf
+brew curl
+brew gdbm
+brew libffi
+brew libyaml
+brew makedepend
+brew mas
+brew openssl
+brew pcre
+brew pkg-config
+brew python3
+brew rbenv-gemset
+brew rbenv
+brew readline
+brew ruby-build
+brew ruby
+brew wget
+brew xz
 
 tap rcmdnk/file
 brew brew-file
 
-# Other Homebrew packages
-brew android-sdk
-brew autoconf
-brew curl
-brew libyaml
-brew makedepend
-brew openssl
-brew pkg-config
-brew rbenv
-brew rbenv-gemset
-brew readline
-brew ruby
-brew ruby-build
-brew wget
-brew xz
-brew mas
+# App Store applications
+appstore 425264550 Blackmagic Disk Speed Test
+appstore 406056744 Evernote
+appstore 539883307 LINE
+appstore 748212890 Memory Monitor
+appstore 544878870 Notefile
+appstore 568494494 Pocket
+appstore 803453959 Slack
+appstore 413215883 WinArchiver
