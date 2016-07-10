@@ -4,6 +4,7 @@
 tap caskroom/cask
 cask alfred
 cask dropbox
+cask ganttproject
 cask genymotion
 cask google-drive
 cask google-japanese-ime
@@ -47,6 +48,7 @@ brew brew-file
 
 # App Store applications
 appstore 425264550 Blackmagic Disk Speed Test
+appstore 409222199 Cyberduck
 appstore 406056744 Evernote
 appstore 539883307 LINE
 appstore 748212890 Memory Monitor
